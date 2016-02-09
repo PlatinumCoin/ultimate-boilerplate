@@ -1,2 +1,4 @@
 # ultimate-boilerplate
-The one that actually works
+
+> The Master's Tools Will Never Dismantle the Master's House  
+> — Audre Lorde
